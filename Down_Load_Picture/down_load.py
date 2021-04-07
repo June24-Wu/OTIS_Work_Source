@@ -81,7 +81,7 @@ class DirectoryClient:
 def main():
     begin_ts = '2021/3/23'
     end_ts = '2021/3/24'
-    gw_id = '0000000000EB9B'#'60210117000118'
+    gw_id = ""
     dest = './blog'
     dest = dest+'/gw_'+gw_id[-4:]
     if not os.path.exists(dest):
