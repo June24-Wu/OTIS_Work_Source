@@ -15,6 +15,7 @@ Main Work
 | Down Load Job & Image Parse | [Notebook](https://github.com/June24-Wu/OTIS_Work_Source/tree/master/Down_Load_Picture) | Azure Blog |
 | ETL Processing | [Notebook](https://github.com/June24-Wu/OTIS_Work_Source/tree/master/ETL_Processing) | Spark ETL |
 | CV Model | [Notebook](https://github.com/June24-Wu/OTIS_Work_Source/tree/master/Model) | MobileNet |
+| Camera Heartbeat | [Notebook](https://github.com/June24-Wu/OTIS_Work_Source/tree/master/Camera_Stability_ETL) | Spark ETL |
 
 
 
